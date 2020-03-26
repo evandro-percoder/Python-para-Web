@@ -1,2 +1,1 @@
-# evandro.coder-hotmail.com
-Treino de Python
+# Treino de Python
